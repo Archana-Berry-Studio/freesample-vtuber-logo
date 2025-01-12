@@ -1,5 +1,5 @@
 # **Free Sample VTuber Logo**  
-# Dilarang memfork (menggarap) repositori ini atau tidak ingin menjadi masalah besar ⚠️
+## Dilarang memfork (menggarap) repositori ini atau tidak ingin menjadi masalah besar ⚠️
 **#freesample-vtuber-logo**  
 
 Selamat datang di **Sampel VTuber Logo**! 🎨✨  
