@@ -2,6 +2,7 @@
 **#freesample-vtuber-logo**  
 
 Selamat datang di **Sampel VTuber Logo**! 🎨✨  
+![Banner ku](archanaberry/mybanner.png)
 
 Kami menyediakan **sampel logo VTuber** yang dirancang secara khusus untuk memberikan gambaran tentang kualitas desain kami. Logo ini **GRATIS** sebagai bahan open commission. Dengan harga mulai dari **Rp 10.000**, Anda dapat memiliki logo unik dan personal untuk persona VTuber Anda!  
 
@@ -27,7 +28,7 @@ Kami menyediakan **sampel logo VTuber** yang dirancang secara khusus untuk membe
 
 ## **Contoh Logo Kami**  
 ![Logo Indra Capcay](vtuberlogo/indracapcay.png)  
-![Logo Aji Pisang](vtuberlogo/ajipisang.png)  
+![Logo Aji Pisang](vtuberlogo/ajipisangmaulana.png)  
 
 Logo di atas adalah contoh logo VTuber gratis (uji coba) yang telah kami buat.  
 
