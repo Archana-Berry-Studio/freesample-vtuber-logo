@@ -28,8 +28,12 @@ Kami menyediakan **sampel logo VTuber** yang dirancang secara khusus untuk membe
 ---
 
 ## **Contoh Logo Kami**  
+## 2/10
 ![Logo Indra Capcay](vtuberlogo/indracapcay.png)  
 ![Logo Aji Pisang](vtuberlogo/ajipisangmaulana.png)  
+## WIP 2/10
+![Logo Luki Kecap](vtuberlogo/lukikecap.png)
+![Logo "The Flower Guy"](vtuberlogo/theflowerguy.png)
 
 Logo di atas adalah contoh logo VTuber gratis (uji coba) yang telah kami buat.  
 
