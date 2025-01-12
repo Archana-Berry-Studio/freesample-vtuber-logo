@@ -4,7 +4,7 @@
 * Aji Pisang Maulana (Teman Facebook)
 * Facebook [Aji Maulana](https://www.facebook.com/profile.php?id=100051526432299&mibextid=ZbWKwL)
 
-![Indra Capcay](./ajipisangmaulana.png)
+![Indra Capcay](./indracapcay.png)
 * Indra Capcay (Teman Facebook)
 * Facebook [Indra Sah Noeldy](https://www.facebook.com/indra87g?mibextid=ZbWKwL)
 
