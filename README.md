@@ -12,13 +12,16 @@ Kami menyediakan **sampel logo VTuber** yang dirancang secara khusus untuk membe
    Setiap logo dirancang dengan konsep orisinal untuk menonjolkan karakter dan identitas VTuber Anda.  
 
 2. **Harga Terjangkau**  
-   Mulai dari **Rp 10.000**, Anda sudah bisa mendapatkan logo yang sesuai dengan kebutuhan Anda.  
+   Mulai dari **Rp 10.000**, Anda sudah bisa mendapatkan logo yang sesuai dengan kebutuhan Anda.
 
-3. **Sampel Gratis**  
+3. **Harga jika logo ingin dibuat komersil (diperjualbelikan)
+   Harga mulai dengan **Rp 50.000**, sudah bisa menjual kembali atau kebutuhan komersial lainnya logo dengan untung (bebas dari hak cipta).
+
+4. **Sampel Gratis**  
    Kami memberikan sampel gratis untuk menunjukkan kualitas karya kami.  
 
-4. **Fleksibilitas Desain**  
-   Bisa request sesuai keinginan, mulai dari tema, warna, hingga gaya tulisan.  
+5. **Fleksibilitas Desain**  
+   Bisa request sesuai keinginan, mulai dari tema, warna, hingga gaya tulisan, kami tidak akan mengecewakan kami tidak membuat tema yang monoton, kaku, dan logo bertema lawas, yang membosankan.
 
 ---
 
