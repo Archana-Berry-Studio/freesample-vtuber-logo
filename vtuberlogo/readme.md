@@ -9,6 +9,11 @@
 * Facebook [Indra Sah Noeldy](https://www.facebook.com/indra87g?mibextid=ZbWKwL)
 
 ![Luki Kecap](./lukikecap.png)
-> Worn in progress [ WIP ]
+> Work in progress [ WIP ]
 * Luki Kecap (Teman Facebook)
 * Facebook [Luki Zainur](https://www.facebook.com/lukixv3?mibextid=ZbWKwL)
+
+![The Flower Guy](./theflowerguy.png)
+> Work in progress [ WIP ]
+* The Flower Guy (Teman Facebook)
+* Facebook [Kang Pungut Gambar](https://www.facebook.com/profile.php?id=100089572961791&mibextid=ZbWKwL)
